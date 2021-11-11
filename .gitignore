@@ -9,3 +9,4 @@ ImageLabels_old.dat
 
 .tool-versions
 .venv/
+*.pyc
