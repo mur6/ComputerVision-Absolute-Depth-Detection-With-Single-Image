@@ -6,3 +6,6 @@ cv2.so
 ImageLabels_old.dat
 .idea/workspace.xml
 .idea/workspace.xml
+
+.tool-versions
+.venv/
